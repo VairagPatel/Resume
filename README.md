@@ -73,7 +73,7 @@ You can find my latest resume in this repository in both **LaTeX format** and **
 ## 📄 Resume File
 
 You can find the latest compiled PDF version of my resume here:  
-👉 [Download Resume (PDF)](./Resume1_Vairag_VITBhopal.pdf)
+👉 [Download Resume (PDF)](./Resume_Vairag_VITBhopal.pdf)
 
 ---
 
